@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 喜欢编织的程序媛一枚。
+公众号地址： ![夕雨健身钩织生活](./%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BB%8B%E7%BB%8D.jpg)
+
