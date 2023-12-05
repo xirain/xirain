@@ -1,10 +1,10 @@
 {
-    "title":"Meekdai",
-    "displayTitle":"eekdai",
+    "title":"test",
+    "displayTitle":"test",
     "subTitle":"童话是一种生活态度，仅此而已。",
-    "homeUrl":"http://blog.meekdai.com",
-    "avatarUrl":"http://meekdai.com/avatar.jpg",
-    "faviconUrl":"http://meekdai.com/favicon.ico",
+    "homeUrl":"http://xirain.github.io",
+    "avatarUrl":"",
+    "faviconUrl":"",
     "singlePage":[],
     "GMEEK_VERSION":"last"
 }
